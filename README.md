@@ -10,7 +10,7 @@ A web-based application that suggests books based on user preferences, leveragin
 - **Simple Web Interface:** Clean, minimal UI for entering preferences and viewing suggestions.
 - **Machine Learning Backend:** Uses a Python-based recommendation algorithm.
 - **Docker Support:** Easily deployable using Docker.
-- **Live Demo:** Accessible at [book-recommender-2srg.onrender.com](https://book-recommender-2srg.onrender.com/)[2].
+- **Live Demo:** Accessible at [book-recommender-2srg.onrender.com](https://book-recommender-2srg.onrender.com/).
 
 ---
 
@@ -106,10 +106,6 @@ GitHub: [@Dasoam](https://github.com/Dasoam)
 
 ---
 
-**Live Demo:** [book-recommender-2srg.onrender.com](https://book-recommender-2srg.onrender.com/)[2]
+**Live Demo:** [book-recommender-2srg.onrender.com](https://book-recommender-2srg.onrender.com/)
 
 ---
-
-Citations:
-[1] https://github.com/Dasoam/Book-Recommender
-[2] https://book-recommender-2srg.onrender.com/
